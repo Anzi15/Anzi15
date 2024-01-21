@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello there it's Anzi here 👋
+## A frontend web developer and a content creator
 
-<!--
-**Anzi15/Anzi15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy crafting visually appealing layouts, websites, and web apps with practical features. 
 
-Here are some ideas to get you started:
+I bring considerable experience in HTML, CSS, and JavaScript to the table, additionally I have good grip of css frameworks like bootstrap and tailwinds, and SCSS (which i prefer in most of my projects), My role extends beyond coding – it involves understanding user's requirements, 
+implementing effective solutions, and delivering projects that not only meet but exceed expectations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+And talking about my experience as a content creator, I love to share what I found useful, whether it's web developmetn tools, tips or even guides, i love to share with other's on instagram mainly, talking about instagram i would like to mention that the most of audence come's from my instragram page, you can checkout all of my socails here - https://linktr.ee/lemme.code.
+
+For the past year and half i have been doing Freelancing as a Web developer, and that has led me lots of experience as well as the crucial skills to manage different projects within deadline
+
+
