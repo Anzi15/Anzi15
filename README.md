@@ -1,3 +1,4 @@
+![Banner Image](https://media.licdn.com/dms/image/D4D16AQHpJEwhkyTwkw/profile-displaybackgroundimage-shrink_350_1400/0/1693481372775?e=1711584000&v=beta&t=qIUs3nRvpgWsyX3BH7cNDAgQpO5VeucSg4b65eYjW-4)
 # Hello, I'm Anzi 👋
 
 ## Frontend Web Developer | Content Creator
