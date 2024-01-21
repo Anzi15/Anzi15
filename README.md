@@ -1,13 +1,16 @@
-### Hello there it's Anzi here 👋
-## A frontend web developer and a content creator
+# Hello, I'm Anzi 👋
 
-I enjoy crafting visually appealing layouts, websites, and web apps with practical features. 
+## Frontend Web Developer | Content Creator
 
-I bring considerable experience in HTML, CSS, and JavaScript to the table, additionally I have good grip of css frameworks like bootstrap and tailwinds, and SCSS (which i prefer in most of my projects), My role extends beyond coding – it involves understanding user's requirements, 
-implementing effective solutions, and delivering projects that not only meet but exceed expectations.
+Welcome to my digital space, where I specialize in crafting visually appealing layouts, websites, and web apps, enriched with practical features.
 
-And talking about my experience as a content creator, I love to share what I found useful, whether it's web developmetn tools, tips or even guides, i love to share with other's on instagram mainly, talking about instagram i would like to mention that the most of audence come's from my instragram page, you can checkout all of my socails here - https://linktr.ee/lemme.code.
+### Technical Expertise:
+I bring extensive experience in HTML, CSS, and JavaScript to the table. I'm proficient in CSS frameworks like Bootstrap and Tailwind, with a preference for SCSS in most of my projects. My role extends beyond coding to understanding user requirements, implementing effective solutions, and delivering projects that exceed expectations.
 
-For the past year and half i have been doing Freelancing as a Web developer, and that has led me lots of experience as well as the crucial skills to manage different projects within deadline
+### Content Creation:
+As a content creator, I enjoy sharing practical insights, whether it's about web development tools, tips, or guides. Most of my audience comes from my Instagram page. Feel free to check out all my socials [here](https://linktr.ee/lemme.code).
 
+### Freelance Journey:
+For the past year and a half, I've been freelancing as a web developer. This experience has equipped me with valuable skills and the ability to manage diverse projects efficiently within deadlines.
 
+Let's collaborate on your digital projects, where innovation meets functionality. 🌐
